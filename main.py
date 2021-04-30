@@ -2,7 +2,7 @@
 
 # Здесь должен быть твой код
 # готовый ThirsScr
-
+#я хз что писвть
 from kivy.app import App
 from kivy.uix.button import Button
 from kivy.uix.label import Label
